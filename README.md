@@ -36,7 +36,7 @@
 
 <br/>
 
-<h3 align="center">🧰 Tech I work with</h3>
+<h3 align="center">💻 Tech I work with</h3>
 
 <br/>
 
@@ -60,8 +60,8 @@
 
 <div align="center">
 
-**Open to graduate / junior Software Engineer roles** — full-stack, AI, or security-aware development.
-<br/>📍 High Wycombe · London · Remote / hybrid (UK)
+**Open to graduate/junior Software Engineer roles** — full-stack, AI, or security-aware development.
+<br/>📍 High Wycombe · London · Remote/hybrid (UK)
 
 ⭐ See more of my work at **[bydiba.dev](https://bydiba.dev)**
 
