@@ -62,9 +62,9 @@ It was my first time working with AI and speech APIs, and I built and shipped th
   <img src="./projects/title-motorarc.svg" height="28" alt="MotorArc" />
 </p>
 
-An end-to-end website for an independent UK car dealer. I created the brand, logo and visual direction, then built the public site around filterable stock, detailed vehicle pages and customer enquiries.
+I created an end-to-end website for an independent UK car dealer—from its brand, logo and visual direction to a public site with filterable stock, vehicle pages and customer enquiries.
 
-The private dashboard manages listings, images, customers and site content, and generates branded PDF invoices. Built for a real client and running in production.
+A private dashboard manages stock, customers and content, and generates branded PDF invoices. The site is live for a real client.
 
 <img src="./projects/stack-motorarc.svg" height="24" alt="Next.js, TypeScript, PostgreSQL, Cloudinary and Puppeteer" />
 
