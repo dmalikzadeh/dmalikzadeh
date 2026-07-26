@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="https://useaicademy.com"><img align="right" width="46%" hspace="8" src="./projects/aicademy.webp" alt="Aicademy — AI-powered learning platform" /></a>
+<a href="https://useaicademy.com"><img align="right" width="46%" src="./projects/aicademy.webp" alt="Aicademy — AI-powered learning platform" /></a>
 
 <p>
   <a href="https://useaicademy.com"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the Aicademy website" /></a>
@@ -38,7 +38,7 @@ I designed, built and shipped it solo as my final-year project (74%), tested it 
 <br clear="all"/>
 <br/>
 
-<a href="https://interview.bydiba.dev"><img align="left" width="46%" hspace="8" src="./projects/interview-bot.webp" alt="InterviewBot — voice-driven AI interview coach" /></a>
+<a href="https://interview.bydiba.dev"><img align="left" width="46%" src="./projects/interview-bot.webp" alt="InterviewBot — voice-driven AI interview coach" /></a>
 
 <p>
   <a href="https://interview.bydiba.dev"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the InterviewBot website" /></a>
@@ -55,7 +55,7 @@ It was my first time working with AI and speech APIs, and I built and shipped th
 <br clear="all"/>
 <br/>
 
-<a href="https://motorarc.co.uk"><img align="right" width="46%" hspace="8" src="./projects/motorarc.webp" alt="MotorArc — car dealership platform" /></a>
+<a href="https://motorarc.co.uk"><img align="right" width="46%" src="./projects/motorarc.webp" alt="MotorArc — car dealership platform" /></a>
 
 <p>
   <a href="https://motorarc.co.uk"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the MotorArc website" /></a>
@@ -71,7 +71,7 @@ The private dashboard manages listings, images, customers and site content, and 
 <br clear="all"/>
 <br/>
 
-<a href="https://landing.bydiba.dev"><img align="left" width="46%" hspace="8" src="./projects/landing-page.webp" alt="Landing Page Concept — motion-led web design" /></a>
+<a href="https://landing.bydiba.dev"><img align="left" width="46%" src="./projects/landing-page.webp" alt="Landing Page Concept — motion-led web design" /></a>
 
 <p>
   <a href="https://landing.bydiba.dev"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the landing page concept" /></a>
