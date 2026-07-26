@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73 32" width="73" height="32" role="img" aria-label="Repository">
+  <style>
+    .label { fill: #57606A; }
+    .arrow { stroke: #8C959F; }
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #8D96A0; }
+      .arrow { stroke: #8D96A0; }
+    }
+  </style>
+  <text x="2" y="20.5" class="label" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Repository</text>
+  <path d="M64.5 19l5.5-5.5m-4 0h4v4" fill="none" class="arrow" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

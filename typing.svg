@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 34" width="620" height="34" role="img" aria-label="I design and ship full-stack products. Aicademy: my final-year project, now live. Open to graduate Software Engineer roles">
+  <defs>
+    <clipPath id="clip0">
+      <rect class="rev rev0" x="43.60" y="0" width="532.80" height="34"/>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect class="rev rev1" x="14.80" y="0" width="590.40" height="34"/>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect class="rev rev2" x="22.00" y="0" width="576.00" height="34"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .t {
+      font: 500 24px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      fill: #F27554;
+    }
+    .rev { transform-box: fill-box; transform-origin: left center; }
+    .rev0 { transform: scaleX(1); }
+    .rev1 { transform: scaleX(0); }
+    .rev2 { transform: scaleX(0); }
+    .caret { fill: #F27554; transform-box: fill-box; }
+    .caret0 { opacity: 1; transform: translateX(532.80px); }
+    .caret1 { opacity: 0; }
+    .caret2 { opacity: 0; }
+
+    .rev0   { animation: reveal0 12.6s infinite; }
+    .caret0 { animation: caret0 12.6s infinite; }
+    .rev1   { animation: reveal1 12.6s infinite; }
+    .caret1 { animation: caret1 12.6s infinite; }
+    .rev2   { animation: reveal2 12.6s infinite; }
+    .caret2 { animation: caret2 12.6s infinite; }
+
+    @keyframes reveal0 {
+      0% { transform: scaleX(0); animation-timing-function: step-end; }
+      0% { transform: scaleX(0); animation-timing-function: steps(37, end); }
+      10% { transform: scaleX(1); animation-timing-function: step-end; }
+      24% { transform: scaleX(1); animation-timing-function: steps(37, end); }
+      30.667% { transform: scaleX(0); }
+      100% { transform: scaleX(0); }
+    }
+    @keyframes reveal1 {
+      0% { transform: scaleX(0); animation-timing-function: step-end; }
+      33.333% { transform: scaleX(0); animation-timing-function: steps(41, end); }
+      43.333% { transform: scaleX(1); animation-timing-function: step-end; }
+      57.333% { transform: scaleX(1); animation-timing-function: steps(41, end); }
+      64% { transform: scaleX(0); }
+      100% { transform: scaleX(0); }
+    }
+    @keyframes reveal2 {
+      0% { transform: scaleX(0); animation-timing-function: step-end; }
+      66.667% { transform: scaleX(0); animation-timing-function: steps(40, end); }
+      76.667% { transform: scaleX(1); animation-timing-function: step-end; }
+      90.667% { transform: scaleX(1); animation-timing-function: steps(40, end); }
+      97.333% { transform: scaleX(0); }
+      100% { transform: scaleX(0); }
+    }
+    @keyframes caret0 {
+      0% { opacity: 0; transform: translateX(0); animation-timing-function: step-end; }
+      0% { opacity: 1; transform: translateX(0); animation-timing-function: steps(37, end); }
+      10% { opacity: 1; transform: translateX(532.8px); animation-timing-function: step-end; }
+      24% { opacity: 1; transform: translateX(532.8px); animation-timing-function: steps(37, end); }
+      30.667% { opacity: 1; transform: translateX(0); animation-timing-function: step-end; }
+      30.677% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes caret1 {
+      0% { opacity: 0; transform: translateX(0); animation-timing-function: step-end; }
+      33.333% { opacity: 1; transform: translateX(0); animation-timing-function: steps(41, end); }
+      43.333% { opacity: 1; transform: translateX(590.4px); animation-timing-function: step-end; }
+      57.333% { opacity: 1; transform: translateX(590.4px); animation-timing-function: steps(41, end); }
+      64% { opacity: 1; transform: translateX(0); animation-timing-function: step-end; }
+      64.01% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes caret2 {
+      0% { opacity: 0; transform: translateX(0); animation-timing-function: step-end; }
+      66.667% { opacity: 1; transform: translateX(0); animation-timing-function: steps(40, end); }
+      76.667% { opacity: 1; transform: translateX(576px); animation-timing-function: step-end; }
+      90.667% { opacity: 1; transform: translateX(576px); animation-timing-function: steps(40, end); }
+      97.333% { opacity: 1; transform: translateX(0); animation-timing-function: step-end; }
+      97.343% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .rev, .caret { animation: none !important; }
+    }
+  </style>
+
+  <g clip-path="url(#clip0)">
+    <text class="t" x="43.60" y="22" textLength="532.80" lengthAdjust="spacing">I design and ship full-stack products</text>
+  </g>
+  <rect class="caret caret0" x="43.60" y="0.00" width="2" height="26.00"/>
+  <g clip-path="url(#clip1)">
+    <text class="t" x="14.80" y="22" textLength="590.40" lengthAdjust="spacing">Aicademy: my final-year project, now live</text>
+  </g>
+  <rect class="caret caret1" x="14.80" y="0.00" width="2" height="26.00"/>
+  <g clip-path="url(#clip2)">
+    <text class="t" x="22.00" y="22" textLength="576.00" lengthAdjust="spacing">Open to graduate Software Engineer roles</text>
+  </g>
+  <rect class="caret caret2" x="22.00" y="0.00" width="2" height="26.00"/>
+</svg>

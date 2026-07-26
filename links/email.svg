@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.70 34" width="174.70" height="34" role="img" aria-label="Email — contact@bydiba.dev">
+  <rect width="174.70" height="34" rx="17" fill="#F6F5F1"/>
+  <rect x="0.7" y="0.7" width="173.30" height="32.6" rx="16.3" fill="none" stroke="#F4978E" stroke-width="1"/>
+  <g transform="translate(17 11)"><g fill="none" stroke="#C4532F" stroke-width="1.35" stroke-linejoin="round"><rect x="0.9" y="2.6" width="12.2" height="8.8" rx="1.8"/><path d="M1.6 4.1 7 8.1l5.4-4"/></g></g>
+  <text x="38.00" y="21.55" textLength="119.70" lengthAdjust="spacing"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#C4532F"
+        letter-spacing="0.2">contact@bydiba.dev</text>
+</svg>

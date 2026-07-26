@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 32" width="126" height="32" role="img" aria-label="Visit site">
+  <style>
+    .button { fill: #24292F; }
+    .label { fill: #FFFFFF; }
+    .arrow { stroke: #A7B0BA; }
+
+    @media (prefers-color-scheme: dark) {
+      .button { fill: #30363D; }
+      .label { fill: #F0F3F6; }
+      .arrow { stroke: #A7B0BA; }
+    }
+  </style>
+
+  <rect width="126" height="32" rx="8" class="button"/>
+  <text x="15" y="20.5" class="label" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">Visit site</text>
+  <path d="M99 20l8-8m-6 0h6v6" fill="none" class="arrow" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
