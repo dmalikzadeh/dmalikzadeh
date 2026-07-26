@@ -46,7 +46,7 @@ I designed, built and shipped it solo as my final-year project (74%), tested it 
   <img src="./projects/title-interview-bot.svg" height="28" alt="InterviewBot" />
 </p>
 
-A voice-based mock interview that adapts its questions to the role and company you choose. It can use a CV or job description as context, transcribes answers live and returns a score with strengths and practical feedback.
+A voice-based mock interview tailored to your chosen role and company. It can use a CV or job description for context, transcribe answers live, then return a score, strengths and practical feedback.
 
 It was my first time working with AI and speech APIs, and I built and shipped the first version in roughly a week.
 
@@ -98,7 +98,7 @@ A landing page concept I built to explore motion-heavy frontend work. It uses GS
 <img src="./toolkit.svg" width="398" alt="Toolkit, arranged as a heart: Vue, Python, JavaScript, Three.js, Haskell, Docker, React, TypeScript, Next.js, Azure, Stripe, C#, GitHub, Node.js, Tailwind CSS, PostgreSQL, Git, Cloudinary, Supabase, Figma, Vercel, GitHub Actions, GSAP, Headless UI, Auth.js, Resend, Postman" />
 <img src="./langs.svg" width="372" alt="Most used languages across my public repositories" />
 
-<br/><br/>
+<br/>
 
 </div>
 
