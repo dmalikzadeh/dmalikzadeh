@@ -102,8 +102,6 @@ A landing page concept I built to explore motion-heavy frontend work. It uses GS
 
 </div>
 
----
-
 <div align="center">
 
 <br/>
