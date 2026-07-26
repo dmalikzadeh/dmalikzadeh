@@ -29,9 +29,9 @@
   <img src="./projects/title-aicademy.svg" height="28" alt="Aicademy" />
 </p>
 
-Aicademy turns a topic or uploaded document into a connected study system—structured learning paths, lessons, quizzes, spaced-repetition flashcards and notes, with a tutor grounded in the material.
+Aicademy turns a topic or document into a connected study system—structured learning paths, lessons, quizzes, spaced-repetition flashcards and notes, with a tutor grounded in the material.
 
-I designed, built and shipped it solo as my final-year project (74%), tested it with 18 users, and have continued developing it into a live product.
+I designed, built and shipped it solo as my final-year project (74%), tested it with 18 users, and continue building it as a live product.
 
 <img src="./projects/stack-aicademy.svg" height="24" alt="Next.js, TypeScript, PostgreSQL and Azure OpenAI" />
 
