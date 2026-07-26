@@ -21,12 +21,12 @@
 
 <br/>
 
-<a href="https://useaicademy.com"><img align="right" width="46%" hspace="12" src="./projects/aicademy.webp" alt="Aicademy — AI-powered learning platform" /></a>
+<a href="https://useaicademy.com"><img align="right" width="46%" hspace="8" src="./projects/aicademy.webp" alt="Aicademy — AI-powered learning platform" /></a>
 
 <p>
   <a href="https://useaicademy.com"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the Aicademy website" /></a>
-  <a href="https://github.com/dmalikzadeh/aicademy"><img align="right" hspace="9" src="./links/repository.svg" height="28" alt="View the Aicademy repository" /></a>
-  <img src="./projects/title-aicademy.svg" height="32" alt="Aicademy" />
+  <a href="https://github.com/dmalikzadeh/aicademy"><img align="right" hspace="4" src="./links/repository.svg" height="28" alt="View the Aicademy repository" /></a>
+  <img src="./projects/title-aicademy.svg" height="28" alt="Aicademy" />
 </p>
 
 Aicademy turns a topic or uploaded document into a connected study system—structured learning paths, lessons, quizzes, spaced-repetition flashcards and notes, with a tutor grounded in the material.
@@ -38,12 +38,12 @@ I designed, built and shipped it solo as my final-year project (74%), tested it 
 <br clear="all"/>
 <br/>
 
-<a href="https://interview.bydiba.dev"><img align="left" width="46%" hspace="12" src="./projects/interview-bot.webp" alt="InterviewBot — voice-driven AI interview coach" /></a>
+<a href="https://interview.bydiba.dev"><img align="left" width="46%" hspace="8" src="./projects/interview-bot.webp" alt="InterviewBot — voice-driven AI interview coach" /></a>
 
 <p>
   <a href="https://interview.bydiba.dev"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the InterviewBot website" /></a>
-  <a href="https://github.com/dmalikzadeh/ai-interview"><img align="right" hspace="9" src="./links/repository.svg" height="28" alt="View the InterviewBot repository" /></a>
-  <img src="./projects/title-interview-bot.svg" height="32" alt="InterviewBot" />
+  <a href="https://github.com/dmalikzadeh/ai-interview"><img align="right" hspace="4" src="./links/repository.svg" height="28" alt="View the InterviewBot repository" /></a>
+  <img src="./projects/title-interview-bot.svg" height="28" alt="InterviewBot" />
 </p>
 
 A voice-based mock interview that adapts its questions to the role and company you choose. It can use a CV or job description as context, transcribes answers live and returns a score with strengths and practical feedback.
@@ -55,11 +55,11 @@ It was my first time working with AI and speech APIs, and I built and shipped th
 <br clear="all"/>
 <br/>
 
-<a href="https://motorarc.co.uk"><img align="right" width="46%" hspace="12" src="./projects/motorarc.webp" alt="MotorArc — car dealership platform" /></a>
+<a href="https://motorarc.co.uk"><img align="right" width="46%" hspace="8" src="./projects/motorarc.webp" alt="MotorArc — car dealership platform" /></a>
 
 <p>
   <a href="https://motorarc.co.uk"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the MotorArc website" /></a>
-  <img src="./projects/title-motorarc.svg" height="32" alt="MotorArc" />
+  <img src="./projects/title-motorarc.svg" height="28" alt="MotorArc" />
 </p>
 
 An end-to-end website for an independent UK car dealer. I created the brand, logo and visual direction, then built the public site around filterable stock, detailed vehicle pages and customer enquiries.
@@ -71,11 +71,11 @@ The private dashboard manages listings, images, customers and site content, and 
 <br clear="all"/>
 <br/>
 
-<a href="https://landing.bydiba.dev"><img align="left" width="46%" hspace="12" src="./projects/landing-page.webp" alt="Landing Page Concept — motion-led web design" /></a>
+<a href="https://landing.bydiba.dev"><img align="left" width="46%" hspace="8" src="./projects/landing-page.webp" alt="Landing Page Concept — motion-led web design" /></a>
 
 <p>
   <a href="https://landing.bydiba.dev"><img align="right" src="./links/visit-site.svg" height="28" alt="Visit the landing page concept" /></a>
-  <img src="./projects/title-landing-page.svg" height="32" alt="Landing Page Concept" />
+  <img src="./projects/title-landing-page.svg" height="28" alt="Landing Page Concept" />
 </p>
 
 A landing page concept I built to explore motion-heavy frontend work. It uses GSAP and Lenis for smooth scrolling, timed reveals and pinned transitions, alongside a custom WebGL fluid background.

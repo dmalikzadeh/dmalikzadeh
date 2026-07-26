@@ -31,7 +31,7 @@ const render = (labels) => {
     const pillWidth = widths[index];
     const pill = `  <g transform="translate(${x})">
     <rect width="${pillWidth}" height="28" rx="14" class="pill"/>
-    <text x="${pillWidth / 2}" y="18.5" text-anchor="middle" class="label">${esc(label)}</text>
+    <text x="${pillWidth / 2}" y="17.5" text-anchor="middle" class="label">${esc(label)}</text>
   </g>`;
     x += pillWidth + gap;
     return pill;
@@ -40,7 +40,7 @@ const render = (labels) => {
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} 28" width="${width}" height="28" role="img" aria-label="${esc(labels.join(", "))}">
   <style>
     .pill { fill: #FFF0EA; stroke: #F4D4CA; }
-    .label { fill: #9A4C35; font: 500 11.5px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+    .label { fill: #9A4C35; font: 500 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
     @media (prefers-color-scheme: dark) {
       .pill { fill: #21262D; stroke: #3D444D; }
       .label { fill: #F4A08A; }
