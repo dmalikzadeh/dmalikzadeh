@@ -7,8 +7,8 @@ const OUT = new URL("../typing.svg", import.meta.url);
 
 const LINES = [
   "I design and ship full-stack products",
-  "Aicademy: my final-year project, now live",
-  "Open to graduate Software Engineer roles",
+  "I care about the details most people skip",
+  "I build AI that goes beyond the novelty",
 ];
 
 const W = 620;

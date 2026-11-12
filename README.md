@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Diba Malikzadeh — Graduate Software Engineer, Full-Stack & AI Developer" />
+<img src="./banner.svg" width="100%" alt="Diba Malikzadeh — Software Engineer, Full-Stack & AI Developer" />
 
 <br/><br/>
 
-<a href="https://bydiba.dev"><img src="./typing.svg" width="620" alt="I design and ship full-stack products. Aicademy: my final-year project, now live. Open to graduate Software Engineer roles." /></a><br/><br/><a href="https://bydiba.dev"><img src="./links/portfolio.svg" alt="Portfolio — bydiba.dev" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dibamalikzadeh"><img src="./links/linkedin.svg" alt="LinkedIn — dibamalikzadeh" /></a>&nbsp;&nbsp;<a href="mailto:contact@bydiba.dev"><img src="./links/email.svg" alt="Email — contact@bydiba.dev" /></a>
+<a href="https://bydiba.dev"><img src="./typing.svg" width="620" alt="I design and ship full-stack products. I care about the details most people skip. I build AI that goes beyond the novelty." /></a><br/><br/><a href="https://bydiba.dev"><img src="./links/portfolio.svg" alt="Portfolio — bydiba.dev" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dibamalikzadeh"><img src="./links/linkedin.svg" alt="LinkedIn — dibamalikzadeh" /></a>&nbsp;&nbsp;<a href="mailto:contact@bydiba.dev"><img src="./links/email.svg" alt="Email — contact@bydiba.dev" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>First-Class Computer Science graduate from the University of Birmingham.</strong><br/>
-  I build full-stack and AI-powered products that are both technically solid and carefully designed.
+  I like taking complicated systems and making them feel obvious to use.
 </p>
 
 <br/>
@@ -31,7 +31,7 @@
 
 Aicademy turns a topic or document into a connected study system—structured learning paths, lessons, quizzes, spaced-repetition flashcards and notes, with a tutor grounded in the material.
 
-I designed, built and shipped it solo as my final-year project (74%), tested it with 18 users, and continue building it as a live product.
+I designed, built and shipped it solo as my final-year project. It's now live, with 600+ lessons published for free.
 
 <img src="./projects/stack-aicademy.svg" height="24" alt="Next.js, TypeScript, PostgreSQL and Azure OpenAI" />
 
@@ -99,15 +99,5 @@ A landing page concept I built to explore motion-heavy frontend work. It uses GS
 <img src="./langs.svg" width="372" alt="Most used languages across my public repositories" />
 
 <br/>
-
-</div>
-
-<div align="center">
-
-<br/>
-
-**Open to graduate/junior Software Engineer roles** — especially full-stack or AI product work.
-
-📍 High Wycombe · London · Remote/hybrid (UK)
 
 </div>

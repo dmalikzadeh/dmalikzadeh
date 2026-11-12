@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 34" width="620" height="34" role="img" aria-label="I design and ship full-stack products. Aicademy: my final-year project, now live. Open to graduate Software Engineer roles">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 34" width="620" height="34" role="img" aria-label="I design and ship full-stack products. I care about the details most people skip. I build AI that goes beyond the novelty">
   <defs>
     <clipPath id="clip0">
       <rect class="rev rev0" x="43.60" y="0" width="532.80" height="34"/>
@@ -7,7 +7,7 @@
       <rect class="rev rev1" x="14.80" y="0" width="590.40" height="34"/>
     </clipPath>
     <clipPath id="clip2">
-      <rect class="rev rev2" x="22.00" y="0" width="576.00" height="34"/>
+      <rect class="rev rev2" x="29.20" y="0" width="561.60" height="34"/>
     </clipPath>
   </defs>
 
@@ -50,9 +50,9 @@
     }
     @keyframes reveal2 {
       0% { transform: scaleX(0); animation-timing-function: step-end; }
-      66.667% { transform: scaleX(0); animation-timing-function: steps(40, end); }
+      66.667% { transform: scaleX(0); animation-timing-function: steps(39, end); }
       76.667% { transform: scaleX(1); animation-timing-function: step-end; }
-      90.667% { transform: scaleX(1); animation-timing-function: steps(40, end); }
+      90.667% { transform: scaleX(1); animation-timing-function: steps(39, end); }
       97.333% { transform: scaleX(0); }
       100% { transform: scaleX(0); }
     }
@@ -76,9 +76,9 @@
     }
     @keyframes caret2 {
       0% { opacity: 0; transform: translateX(0); animation-timing-function: step-end; }
-      66.667% { opacity: 1; transform: translateX(0); animation-timing-function: steps(40, end); }
-      76.667% { opacity: 1; transform: translateX(576px); animation-timing-function: step-end; }
-      90.667% { opacity: 1; transform: translateX(576px); animation-timing-function: steps(40, end); }
+      66.667% { opacity: 1; transform: translateX(0); animation-timing-function: steps(39, end); }
+      76.667% { opacity: 1; transform: translateX(561.5999999999999px); animation-timing-function: step-end; }
+      90.667% { opacity: 1; transform: translateX(561.5999999999999px); animation-timing-function: steps(39, end); }
       97.333% { opacity: 1; transform: translateX(0); animation-timing-function: step-end; }
       97.343% { opacity: 0; }
       100% { opacity: 0; }
@@ -94,11 +94,11 @@
   </g>
   <rect class="caret caret0" x="43.60" y="0.00" width="2" height="26.00"/>
   <g clip-path="url(#clip1)">
-    <text class="t" x="14.80" y="22" textLength="590.40" lengthAdjust="spacing">Aicademy: my final-year project, now live</text>
+    <text class="t" x="14.80" y="22" textLength="590.40" lengthAdjust="spacing">I care about the details most people skip</text>
   </g>
   <rect class="caret caret1" x="14.80" y="0.00" width="2" height="26.00"/>
   <g clip-path="url(#clip2)">
-    <text class="t" x="22.00" y="22" textLength="576.00" lengthAdjust="spacing">Open to graduate Software Engineer roles</text>
+    <text class="t" x="29.20" y="22" textLength="561.60" lengthAdjust="spacing">I build AI that goes beyond the novelty</text>
   </g>
-  <rect class="caret caret2" x="22.00" y="0.00" width="2" height="26.00"/>
+  <rect class="caret caret2" x="29.20" y="0.00" width="2" height="26.00"/>
 </svg>
